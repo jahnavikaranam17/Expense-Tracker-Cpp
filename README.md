@@ -29,3 +29,13 @@ It allows users to record their daily expenses, view complete history, calculate
 1. Save the file as `expense.cpp`  
 2. Open your terminal/command prompt  
 3. Compile the code:
+
+## 📸 Program Demo
+
+![Expense Tracker Screenshot](expense_ss.png)
+
+
+
+
+
+
